@@ -145,9 +145,9 @@ O dashboard tem duas páginas, com botões de navegação:
 - **Turnover Profile:** mostra quem sai (por cargo, departamento, faixa salarial, faixa etária e tempo de empresa), com cartões de resumo e uma matriz de calor cruzando departamento e horas extras.
 - **Risk Factors:** mostra possíveis fatores associados às saídas (viagens, satisfação, distância de casa, empresas anteriores e horas extras).
 
-![Turnover Profile](images/turnover_profile.png)
+<img width="1457" height="815" alt="Captura de tela 2026-11-03 202815" src="https://github.com/user-attachments/assets/a7e3bd39-a86b-4360-9e8e-149156637861" />
+<img width="1459" height="818" alt="Captura de tela 2026-11-03 202738" src="https://github.com/user-attachments/assets/84808b23-043b-47b6-8298-21ed5e123c88" />
 
-![Risk Factors](images/risk_factors.png)
 
 ## Observações
 
